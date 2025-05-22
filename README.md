@@ -64,7 +64,7 @@ This project demonstrates how to deploy a static website to AWS S3 using Terrafo
 
 6. **Example:**
 
-   ![Cumulus Image](website/cumulus.jpg)
+   ![Cumulus Image](static_site.png)
 
 7. **License**
 
