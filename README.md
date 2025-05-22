@@ -1,6 +1,4 @@
-README.md
-markdown
-CopierModifier
+
 #  Static Website Deployment on AWS using Terraform
 
 This project demonstrates how to deploy a static website to AWS S3 using Terraform. It includes the setup of a public S3 bucket, upload of static files (`index.html` and images), and configuration for website hosting. The infrastructure is defined as code using Terraform.
